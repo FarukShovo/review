@@ -44,6 +44,8 @@ body{
     
     border-left:orange 5px solid ;
     border-radius: 10px;
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
 }
 #last{
     display: flex;

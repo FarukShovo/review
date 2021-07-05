@@ -1,0 +1,47 @@
+body{
+    font-family: 'Uchen', serif;
+    margin: 0px;
+}
+#name{
+    color: darkorange;
+}
+#welcome{
+    text-align: center;
+    color: blue;
+    background-image: linear-gradient(yellow, skyblue);
+
+    font-size: 50px;
+    
+}
+#one{
+    display: flex;
+    padding: 50px;
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+    
+
+    
+}
+#one img{
+    width: 30;
+}
+.intro{
+    box-shadow:20px 10px 30px darkgray;
+    border-left: solid olive;
+    padding: 10px;
+}
+#two{
+    display: flex;
+    padding: 50px;
+    border-radius: 10px;
+   
+}
+#dadi{
+    box-shadow: paleturquoise 20px 20px 50px;
+    width: 50%;
+    margin-right: 50px;
+    
+    border-left:orange 5px solid ;
+    border-radius: 10px;
+}

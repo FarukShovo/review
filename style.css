@@ -45,3 +45,33 @@ body{
     border-left:orange 5px solid ;
     border-radius: 10px;
 }
+#last{
+    display: flex;
+    margin: 5px;
+    padding: 10px;
+
+}
+#lol{
+    margin: 10px;
+    padding: 10px;
+    box-shadow: royalblue 20px 20px 40px;
+}
+#olo{
+    margin: 10px;
+    padding: 10px;
+    box-shadow: royalblue 20px 20px 40px;
+}
+#three{
+    margin: 10px;
+    padding: 10px;
+    box-shadow: royalblue 20px 20px 40px;
+    border-left: solid 10px;
+    border-image: linear-gradient(red, orange);
+}
+#photos{
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    color: lawngreen;
+    text-shadow: lightsalmon 20px 20px;
+}
